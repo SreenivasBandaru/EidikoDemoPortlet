@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><portlet-properties>
+    <portlet name="EidikoDemoPortlet">
+        <property>
+            <name>DEFAULT_PAGE</name>
+            <value>/_EidikoDemoPortlet/jsp/html/EidikoDemoPortletView.jsp</value>
+        </property>
+    </portlet>
+</portlet-properties>
